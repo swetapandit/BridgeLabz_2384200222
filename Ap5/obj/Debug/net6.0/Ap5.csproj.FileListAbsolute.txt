@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/dotnet-program/Ap5/obj/Debug/net6.0/Ap5.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap5/obj/Debug/net6.0/Ap5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/dotnet-program/Ap5/obj/Debug/net6.0/Ap5.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap5/obj/Debug/net6.0/Ap5.AssemblyInfo.cs
+/Users/swetapandit/Desktop/dotnet-program/Ap5/obj/Debug/net6.0/Ap5.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap5/bin/Debug/net6.0/Ap5
+/Users/swetapandit/Desktop/dotnet-program/Ap5/bin/Debug/net6.0/Ap5.deps.json
+/Users/swetapandit/Desktop/dotnet-program/Ap5/bin/Debug/net6.0/Ap5.runtimeconfig.json
+/Users/swetapandit/Desktop/dotnet-program/Ap5/bin/Debug/net6.0/Ap5.dll
+/Users/swetapandit/Desktop/dotnet-program/Ap5/bin/Debug/net6.0/Ap5.pdb
+/Users/swetapandit/Desktop/dotnet-program/Ap5/obj/Debug/net6.0/Ap5.dll
+/Users/swetapandit/Desktop/dotnet-program/Ap5/obj/Debug/net6.0/refint/Ap5.dll
+/Users/swetapandit/Desktop/dotnet-program/Ap5/obj/Debug/net6.0/Ap5.pdb
+/Users/swetapandit/Desktop/dotnet-program/Ap5/obj/Debug/net6.0/Ap5.genruntimeconfig.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap5/obj/Debug/net6.0/ref/Ap5.dll

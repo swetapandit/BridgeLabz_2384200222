@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/dotnet-program/Ap4/bin/Debug/net6.0/Ap4
+/Users/swetapandit/Desktop/dotnet-program/Ap4/bin/Debug/net6.0/Ap4.deps.json
+/Users/swetapandit/Desktop/dotnet-program/Ap4/bin/Debug/net6.0/Ap4.runtimeconfig.json
+/Users/swetapandit/Desktop/dotnet-program/Ap4/bin/Debug/net6.0/Ap4.dll
+/Users/swetapandit/Desktop/dotnet-program/Ap4/bin/Debug/net6.0/Ap4.pdb
+/Users/swetapandit/Desktop/dotnet-program/Ap4/obj/Debug/net6.0/Ap4.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap4/obj/Debug/net6.0/Ap4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/dotnet-program/Ap4/obj/Debug/net6.0/Ap4.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap4/obj/Debug/net6.0/Ap4.AssemblyInfo.cs
+/Users/swetapandit/Desktop/dotnet-program/Ap4/obj/Debug/net6.0/Ap4.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap4/obj/Debug/net6.0/Ap4.dll
+/Users/swetapandit/Desktop/dotnet-program/Ap4/obj/Debug/net6.0/refint/Ap4.dll
+/Users/swetapandit/Desktop/dotnet-program/Ap4/obj/Debug/net6.0/Ap4.pdb
+/Users/swetapandit/Desktop/dotnet-program/Ap4/obj/Debug/net6.0/Ap4.genruntimeconfig.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap4/obj/Debug/net6.0/ref/Ap4.dll

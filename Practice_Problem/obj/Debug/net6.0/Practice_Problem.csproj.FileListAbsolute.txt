@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/bin/Debug/net6.0/Practice_Problem
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/bin/Debug/net6.0/Practice_Problem.deps.json
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/bin/Debug/net6.0/Practice_Problem.runtimeconfig.json
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/bin/Debug/net6.0/Practice_Problem.dll
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/bin/Debug/net6.0/Practice_Problem.pdb
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/obj/Debug/net6.0/Practice_Problem.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/obj/Debug/net6.0/Practice_Problem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/obj/Debug/net6.0/Practice_Problem.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/obj/Debug/net6.0/Practice_Problem.AssemblyInfo.cs
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/obj/Debug/net6.0/Practice_Problem.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/obj/Debug/net6.0/Practice_Problem.dll
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/obj/Debug/net6.0/refint/Practice_Problem.dll
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/obj/Debug/net6.0/Practice_Problem.pdb
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/obj/Debug/net6.0/Practice_Problem.genruntimeconfig.cache
+/Users/swetapandit/Desktop/dotnet-program/Practice_Problem/obj/Debug/net6.0/ref/Practice_Problem.dll

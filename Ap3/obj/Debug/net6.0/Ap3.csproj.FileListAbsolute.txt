@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/dotnet-program/Ap3/obj/Debug/net6.0/Ap3.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap3/obj/Debug/net6.0/Ap3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/dotnet-program/Ap3/obj/Debug/net6.0/Ap3.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap3/obj/Debug/net6.0/Ap3.AssemblyInfo.cs
+/Users/swetapandit/Desktop/dotnet-program/Ap3/obj/Debug/net6.0/Ap3.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap3/bin/Debug/net6.0/Ap3
+/Users/swetapandit/Desktop/dotnet-program/Ap3/bin/Debug/net6.0/Ap3.deps.json
+/Users/swetapandit/Desktop/dotnet-program/Ap3/bin/Debug/net6.0/Ap3.runtimeconfig.json
+/Users/swetapandit/Desktop/dotnet-program/Ap3/bin/Debug/net6.0/Ap3.dll
+/Users/swetapandit/Desktop/dotnet-program/Ap3/bin/Debug/net6.0/Ap3.pdb
+/Users/swetapandit/Desktop/dotnet-program/Ap3/obj/Debug/net6.0/Ap3.dll
+/Users/swetapandit/Desktop/dotnet-program/Ap3/obj/Debug/net6.0/refint/Ap3.dll
+/Users/swetapandit/Desktop/dotnet-program/Ap3/obj/Debug/net6.0/Ap3.pdb
+/Users/swetapandit/Desktop/dotnet-program/Ap3/obj/Debug/net6.0/Ap3.genruntimeconfig.cache
+/Users/swetapandit/Desktop/dotnet-program/Ap3/obj/Debug/net6.0/ref/Ap3.dll

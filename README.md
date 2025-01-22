@@ -26,4 +26,5 @@ Date: 22-01-25 (Wednesday)
 --------------------------
 1. Assignment 1 completed 
 2. Learn typecasting
-3. 
+3. Assignment 2 completed 
+4.  

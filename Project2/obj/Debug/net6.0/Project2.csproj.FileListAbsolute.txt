@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/Project2/bin/Debug/net6.0/Project2
+/Users/swetapandit/Desktop/Mydotnet/Project2/bin/Debug/net6.0/Project2.deps.json
+/Users/swetapandit/Desktop/Mydotnet/Project2/bin/Debug/net6.0/Project2.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/Project2/bin/Debug/net6.0/Project2.dll
+/Users/swetapandit/Desktop/Mydotnet/Project2/bin/Debug/net6.0/Project2.pdb
+/Users/swetapandit/Desktop/Mydotnet/Project2/obj/Debug/net6.0/Project2.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/Project2/obj/Debug/net6.0/Project2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/Project2/obj/Debug/net6.0/Project2.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Project2/obj/Debug/net6.0/Project2.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/Project2/obj/Debug/net6.0/Project2.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Project2/obj/Debug/net6.0/Project2.dll
+/Users/swetapandit/Desktop/Mydotnet/Project2/obj/Debug/net6.0/refint/Project2.dll
+/Users/swetapandit/Desktop/Mydotnet/Project2/obj/Debug/net6.0/Project2.pdb
+/Users/swetapandit/Desktop/Mydotnet/Project2/obj/Debug/net6.0/Project2.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/Project2/obj/Debug/net6.0/ref/Project2.dll

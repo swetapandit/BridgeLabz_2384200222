@@ -27,4 +27,12 @@ Date: 22-01-25 (Wednesday)
 1. Assignment 1 completed 
 2. Learn typecasting
 3. Assignment 2 completed 
-4.  
+
+****************************************************************************
+Date: 23-01-25 (Thursday)
+--------------------------
+1. Control Flows
+2. Boolean Data Types
+3. Boolean Expressions
+4. Logical Operators
+5. Assignment 2 ,3, 4 completed on These topics  

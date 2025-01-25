@@ -29,6 +29,7 @@ Date: 22-01-25 (Wednesday)
 3. Assignment 2 completed 
 
 ****************************************************************************
+
 Date: 23-01-25 (Thursday)
 --------------------------
 1. Control Flows
@@ -36,3 +37,19 @@ Date: 23-01-25 (Thursday)
 3. Boolean Expressions
 4. Logical Operators
 5. Assignment 2 ,3, 4 completed on These topics  
+
+****************************************************************************
+
+Date: 24-01-25 (Friday)
+--------------------------
+1. Holiday
+
+****************************************************************************
+
+Date: 25-01-25 (Saturday)
+--------------------------
+1. 1D Array
+2. 2D Array
+3. Assignment 1 completed   
+4. Assignment 2 completed
+5. Learned about IL in the architecture at 2 different areas.

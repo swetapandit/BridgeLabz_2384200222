@@ -53,3 +53,13 @@ Date: 25-01-25 (Saturday)
 3. Assignment 1 completed   
 4. Assignment 2 completed
 5. Learned about IL in the architecture at 2 different areas.
+
+****************************************************************************
+
+Date: 26-01-25 (Sunday)
+--------------------------
+1. Upcasting and Downcasting
+2. C# Comments
+3. Data Types
+4. Types of Variables 
+5. Access Modifiers

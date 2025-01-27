@@ -63,3 +63,14 @@ Date: 26-01-25 (Sunday)
 3. Data Types
 4. Types of Variables 
 5. Access Modifiers
+
+****************************************************************************
+
+Date: 27-01-25 (Monday)  
+--------------------------
+1. Static Clss
+2. Method in c#
+3. Assignment 2
+4. Assignment 3
+
+

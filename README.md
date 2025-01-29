@@ -73,4 +73,18 @@ Date: 27-01-25 (Monday)
 3. Assignment 2
 4. Assignment 3
 
+****************************************************************************
 
+Date: 28-01-25 (Tuesday)  
+--------------------------
+1. Strings
+2. Common String Functions
+3. Assignment 4 of Method
+
+****************************************************************************
+
+Date: 29-01-25 (Wednesday)  
+--------------------------
+1. Strings
+2. Assignment 2 on Strings
+3. Assignment 3 on Strings

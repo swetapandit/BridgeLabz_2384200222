@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/Opps1/bin/Debug/net6.0/Opps1
+/Users/swetapandit/Desktop/Mydotnet/Opps1/bin/Debug/net6.0/Opps1.deps.json
+/Users/swetapandit/Desktop/Mydotnet/Opps1/bin/Debug/net6.0/Opps1.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/Opps1/bin/Debug/net6.0/Opps1.dll
+/Users/swetapandit/Desktop/Mydotnet/Opps1/bin/Debug/net6.0/Opps1.pdb
+/Users/swetapandit/Desktop/Mydotnet/Opps1/obj/Debug/net6.0/Opps1.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/Opps1/obj/Debug/net6.0/Opps1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/Opps1/obj/Debug/net6.0/Opps1.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Opps1/obj/Debug/net6.0/Opps1.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/Opps1/obj/Debug/net6.0/Opps1.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Opps1/obj/Debug/net6.0/Opps1.dll
+/Users/swetapandit/Desktop/Mydotnet/Opps1/obj/Debug/net6.0/refint/Opps1.dll
+/Users/swetapandit/Desktop/Mydotnet/Opps1/obj/Debug/net6.0/Opps1.pdb
+/Users/swetapandit/Desktop/Mydotnet/Opps1/obj/Debug/net6.0/Opps1.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/Opps1/obj/Debug/net6.0/ref/Opps1.dll

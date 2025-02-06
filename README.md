@@ -134,3 +134,11 @@ Date: 05-02-25 (Wednesday)
 
 ****************************************************************************
 
+Date: 06-02-25 (Thursday)
+--------------------------
+1. Oops Concept and why we need it 
+2. Assignment on association , Aggregation and composition
+3. Interface and abstract class
+4. String class and string builder class.
+
+****************************************************************************

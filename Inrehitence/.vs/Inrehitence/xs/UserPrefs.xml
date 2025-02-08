@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6C945CC6-894D-444C-A50A-7D3A6D11023E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Inrehitence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inrehitence/VehicleManagement.cs">
+    <Files>
+      <File FileName="Inrehitence/Bank.cs" Line="79" Column="22" />
+      <File FileName="Inrehitence/Education.cs" Line="1" Column="3" />
+      <File FileName="Inrehitence/Resturant.cs" Line="42" Column="13" />
+      <File FileName="Inrehitence/SchoolSystem.cs" Line="111" Column="28" />
+      <File FileName="Inrehitence/VehicleManagement.cs" Line="73" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inrehitence" expanded="True">
+            <Node name="Inrehitence">
+              <Node name="VehicleManagement.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

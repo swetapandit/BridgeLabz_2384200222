@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/bin/Debug/net6.0/Inrehitence
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/bin/Debug/net6.0/Inrehitence.deps.json
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/bin/Debug/net6.0/Inrehitence.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/bin/Debug/net6.0/Inrehitence.dll
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/bin/Debug/net6.0/Inrehitence.pdb
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/obj/Debug/net6.0/Inrehitence.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/obj/Debug/net6.0/Inrehitence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/obj/Debug/net6.0/Inrehitence.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/obj/Debug/net6.0/Inrehitence.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/obj/Debug/net6.0/Inrehitence.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/obj/Debug/net6.0/Inrehitence.dll
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/obj/Debug/net6.0/refint/Inrehitence.dll
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/obj/Debug/net6.0/Inrehitence.pdb
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/obj/Debug/net6.0/Inrehitence.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/Inrehitence/Inrehitence/obj/Debug/net6.0/ref/Inrehitence.dll

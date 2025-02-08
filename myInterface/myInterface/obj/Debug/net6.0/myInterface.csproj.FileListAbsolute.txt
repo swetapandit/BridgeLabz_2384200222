@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/bin/Debug/net6.0/myInterface
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/bin/Debug/net6.0/myInterface.deps.json
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/bin/Debug/net6.0/myInterface.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/bin/Debug/net6.0/myInterface.dll
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/bin/Debug/net6.0/myInterface.pdb
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/obj/Debug/net6.0/myInterface.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/obj/Debug/net6.0/myInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/obj/Debug/net6.0/myInterface.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/obj/Debug/net6.0/myInterface.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/obj/Debug/net6.0/myInterface.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/obj/Debug/net6.0/myInterface.dll
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/obj/Debug/net6.0/refint/myInterface.dll
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/obj/Debug/net6.0/myInterface.pdb
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/obj/Debug/net6.0/myInterface.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/myInterface/myInterface/obj/Debug/net6.0/ref/myInterface.dll

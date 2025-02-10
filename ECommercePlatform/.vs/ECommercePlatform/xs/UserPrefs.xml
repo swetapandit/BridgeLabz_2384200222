@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{78B1CAF0-60AA-4D92-891D-905C6E67718C}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ECommercePlatform PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ECommercePlatform/Program.cs">
+    <Files>
+      <File FileName="ECommercePlatform/Program.cs" Line="38" Column="1" />
+      <File FileName="ECommercePlatform/Product.cs" Line="19" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ECommercePlatform" expanded="True">
+            <Node name="ECommercePlatform">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

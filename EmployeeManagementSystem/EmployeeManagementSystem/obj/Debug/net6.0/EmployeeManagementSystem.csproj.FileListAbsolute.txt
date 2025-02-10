@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/bin/Debug/net6.0/EmployeeManagementSystem
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/bin/Debug/net6.0/EmployeeManagementSystem.deps.json
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/bin/Debug/net6.0/EmployeeManagementSystem.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/bin/Debug/net6.0/EmployeeManagementSystem.dll
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/bin/Debug/net6.0/EmployeeManagementSystem.pdb
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net6.0/EmployeeManagementSystem.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net6.0/EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net6.0/EmployeeManagementSystem.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net6.0/EmployeeManagementSystem.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net6.0/EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net6.0/EmployeeManagementSystem.dll
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net6.0/refint/EmployeeManagementSystem.dll
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net6.0/EmployeeManagementSystem.pdb
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net6.0/EmployeeManagementSystem.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/EmployeeManagementSystem/EmployeeManagementSystem/obj/Debug/net6.0/ref/EmployeeManagementSystem.dll

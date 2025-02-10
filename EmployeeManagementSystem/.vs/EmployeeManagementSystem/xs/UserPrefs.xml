@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AA19F5D5-64B8-4C05-B392-853EE505D1C1}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EmployeeManagementSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeManagementSystem/Program.cs">
+    <Files>
+      <File FileName="EmployeeManagementSystem/Program.cs" Line="15" Column="24" />
+      <File FileName="EmployeeManagementSystem/Employee.cs" Line="65" Column="6" />
+      <File FileName="EmployeeManagementSystem/FullTimeEmployee.cs" Line="13" Column="1" />
+      <File FileName="EmployeeManagementSystem/PartTimeEmployee.cs" Line="21" Column="2" />
+      <File FileName="EmployeeManagementSystem/InterfaceDepartment.cs" Line="3" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeManagementSystem" expanded="True">
+            <Node name="EmployeeManagementSystem">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

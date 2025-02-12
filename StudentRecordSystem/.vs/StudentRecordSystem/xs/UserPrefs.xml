@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{EDA19B41-4641-4ECE-A0A3-B33E77A1A838}|Default">
+  <MonoDevelop.Ide.ItemProperties.StudentRecordSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentRecordSystem/TaskScheduler.cs">
+    <Files>
+      <File FileName="StudentRecordSystem/Program.cs" Line="107" Column="41" />
+      <File FileName="StudentRecordSystem/Program1.cs" Line="15" Column="23" />
+      <File FileName="StudentRecordSystem/InventoryManagementSystem.cs" Line="372" Column="19" />
+      <File FileName="StudentRecordSystem/EmptyClass.cs" Line="309" Column="3" />
+      <File FileName="StudentRecordSystem/MovieManagement.cs" Line="344" Column="3" />
+      <File FileName="StudentRecordSystem/OnlineTicket.cs" Line="274" Column="3" />
+      <File FileName="StudentRecordSystem/UndoRedo.cs" Line="146" Column="1" />
+      <File FileName="StudentRecordSystem/RoundRobin.cs" Line="210" Column="3" />
+      <File FileName="StudentRecordSystem/LibraryManagement.cs" Line="326" Column="3" />
+      <File FileName="StudentRecordSystem/TaskScheduler.cs" Line="290" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentRecordSystem" expanded="True">
+            <Node name="StudentRecordSystem">
+              <Node name="TaskScheduler.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

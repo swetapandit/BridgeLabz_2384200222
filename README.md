@@ -169,3 +169,16 @@ Date: 10-02-25 (Monday)
 2. Implemented Properties
 
 ****************************************************************************
+Date: 11-02-25 (Tuesday)
+--------------------------
+1. Linked List
+2. Singly LinkedList
+3. Insertion, Deleteion, Updation, Searching
+
+****************************************************************************
+Date: 12-02-25 (Wednesday)
+--------------------------
+1. Linked List
+2. Doubly LinkedList
+3. Insertion, Deleteion, Updation, Searching
+****************************************************************************

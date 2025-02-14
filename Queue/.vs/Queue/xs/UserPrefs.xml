@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0F57B848-F51D-4280-AAC8-17EBF353E456}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Queue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Queue/Circular.cs">
+    <Files>
+      <File FileName="Queue/Program.cs" Line="163" Column="4" />
+      <File FileName="Queue/Span.cs" Line="121" Column="3" />
+      <File FileName="Queue/SlidingWindow.cs" Line="126" Column="10" />
+      <File FileName="Queue/Circular.cs" Line="110" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Queue" expanded="True">
+            <Node name="Queue">
+              <Node name="Circular.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

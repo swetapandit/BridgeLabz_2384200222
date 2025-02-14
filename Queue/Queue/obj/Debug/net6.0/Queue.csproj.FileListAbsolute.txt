@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/bin/Debug/net6.0/Queue
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/bin/Debug/net6.0/Queue.deps.json
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/bin/Debug/net6.0/Queue.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/bin/Debug/net6.0/Queue.dll
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/bin/Debug/net6.0/Queue.pdb
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/obj/Debug/net6.0/Queue.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/obj/Debug/net6.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/obj/Debug/net6.0/Queue.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/obj/Debug/net6.0/Queue.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/obj/Debug/net6.0/Queue.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/obj/Debug/net6.0/Queue.dll
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/obj/Debug/net6.0/refint/Queue.dll
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/obj/Debug/net6.0/Queue.pdb
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/obj/Debug/net6.0/Queue.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/Queue/Queue/obj/Debug/net6.0/ref/Queue.dll

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A93FCB53-66E2-45FA-8859-2934A78F7EC3}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sorting/pocoClass.cs">
+    <Files>
+      <File FileName="Sorting/Program.cs" />
+      <File FileName="Sorting/InsertionSort.cs" />
+      <File FileName="Sorting/MergeSort.cs" />
+      <File FileName="Sorting/QuickSort.cs" />
+      <File FileName="Sorting/SelectionSort.cs" />
+      <File FileName="Sorting/HeapSort.cs" />
+      <File FileName="Sorting/CountSort.cs" Line="44" Column="3" />
+      <File FileName="Sorting/pocoClass.cs" Line="35" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sorting" expanded="True">
+            <Node name="Sorting" expanded="True">
+              <Node name="pocoClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sorting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

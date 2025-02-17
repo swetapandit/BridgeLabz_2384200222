@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6BBF379A-1B41-44DC-9E8F-67966320B53A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CompareSearch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompareFibbo.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="CompareSort.cs" Line="91" Column="3" />
+      <File FileName="CompareFileReading.cs" Line="41" Column="3" />
+      <File FileName="CompareFibbo.cs" Line="24" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CompareSearch" expanded="True">
+            <Node name="CompareSearch">
+              <Node name="CompareFibbo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

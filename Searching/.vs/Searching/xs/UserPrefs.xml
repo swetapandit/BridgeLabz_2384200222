@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D30A3142-625D-4174-84C1-98B52929E3A9}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwoDMat.cs">
+    <Files>
+      <File FileName="Program.cs" Line="27" Column="4" />
+      <File FileName="FindWord.cs" Line="30" Column="3" />
+      <File FileName="EmptyClass.cs" Line="31" Column="9" />
+      <File FileName="Rotate.cs" Line="41" Column="3" />
+      <File FileName="FirstAndLast.cs" Line="81" Column="3" />
+      <File FileName="Challenge.cs" Line="90" Column="3" />
+      <File FileName="TwoDMat.cs" Line="50" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Searching" expanded="True">
+            <Node name="Searching">
+              <Node name="TwoDMat.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Searching PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/Searching/bin/Debug/net6.0/Searching
+/Users/swetapandit/Desktop/Mydotnet/Searching/bin/Debug/net6.0/Searching.deps.json
+/Users/swetapandit/Desktop/Mydotnet/Searching/bin/Debug/net6.0/Searching.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/Searching/bin/Debug/net6.0/Searching.dll
+/Users/swetapandit/Desktop/Mydotnet/Searching/bin/Debug/net6.0/Searching.pdb
+/Users/swetapandit/Desktop/Mydotnet/Searching/obj/Debug/net6.0/Searching.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/Searching/obj/Debug/net6.0/Searching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/Searching/obj/Debug/net6.0/Searching.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Searching/obj/Debug/net6.0/Searching.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/Searching/obj/Debug/net6.0/Searching.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Searching/obj/Debug/net6.0/Searching.dll
+/Users/swetapandit/Desktop/Mydotnet/Searching/obj/Debug/net6.0/refint/Searching.dll
+/Users/swetapandit/Desktop/Mydotnet/Searching/obj/Debug/net6.0/Searching.pdb
+/Users/swetapandit/Desktop/Mydotnet/Searching/obj/Debug/net6.0/Searching.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/Searching/obj/Debug/net6.0/ref/Searching.dll

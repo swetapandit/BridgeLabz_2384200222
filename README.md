@@ -208,4 +208,11 @@ Date: 16-02-25 (Sunday)
 1. StringBuilder
 2. StringBuffer
 3. String Assignment
+4. Linear and Binary Search Assignment
 ****************************************************************************
+
+Date: 17-02-25 (Monday)
+--------------------------
+1. Problems on Strings
+****************************************************************************
+

@@ -214,5 +214,7 @@ Date: 16-02-25 (Sunday)
 Date: 17-02-25 (Monday)
 --------------------------
 1. Problems on Strings
+2. Problems on Time Complexities
+3. Binary Search Problems
 ****************************************************************************
 

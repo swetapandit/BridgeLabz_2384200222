@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/Generics/bin/Debug/net6.0/Generics
+/Users/swetapandit/Desktop/Mydotnet/Generics/bin/Debug/net6.0/Generics.deps.json
+/Users/swetapandit/Desktop/Mydotnet/Generics/bin/Debug/net6.0/Generics.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/Generics/bin/Debug/net6.0/Generics.dll
+/Users/swetapandit/Desktop/Mydotnet/Generics/bin/Debug/net6.0/Generics.pdb
+/Users/swetapandit/Desktop/Mydotnet/Generics/obj/Debug/net6.0/Generics.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/Generics/obj/Debug/net6.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/Generics/obj/Debug/net6.0/Generics.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Generics/obj/Debug/net6.0/Generics.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/Generics/obj/Debug/net6.0/Generics.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/Generics/obj/Debug/net6.0/Generics.dll
+/Users/swetapandit/Desktop/Mydotnet/Generics/obj/Debug/net6.0/refint/Generics.dll
+/Users/swetapandit/Desktop/Mydotnet/Generics/obj/Debug/net6.0/Generics.pdb
+/Users/swetapandit/Desktop/Mydotnet/Generics/obj/Debug/net6.0/Generics.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/Generics/obj/Debug/net6.0/ref/Generics.dll

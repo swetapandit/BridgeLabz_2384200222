@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FC97E264-485A-48B0-B13F-67B3E65409F6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Subset.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="CountElement.cs" />
+      <File FileName="ReverseByKElements.cs" />
+      <File FileName="RemoveDuplicate.cs" />
+      <File FileName="NthEndElement.cs" />
+      <File FileName="EqualSet.cs" />
+      <File FileName="UnionAndIntersection.cs" />
+      <File FileName="Symmetric.cs" />
+      <File FileName="SortSet.cs" />
+      <File FileName="Subset.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Collection" expanded="True">
+            <Node name="Collection" expanded="True">
+              <Node name="Subset.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Collection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

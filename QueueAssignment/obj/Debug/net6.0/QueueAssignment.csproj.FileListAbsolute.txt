@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/bin/Debug/net6.0/QueueAssignment
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/bin/Debug/net6.0/QueueAssignment.deps.json
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/bin/Debug/net6.0/QueueAssignment.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/bin/Debug/net6.0/QueueAssignment.dll
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/bin/Debug/net6.0/QueueAssignment.pdb
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/obj/Debug/net6.0/QueueAssignment.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/obj/Debug/net6.0/QueueAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/obj/Debug/net6.0/QueueAssignment.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/obj/Debug/net6.0/QueueAssignment.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/obj/Debug/net6.0/QueueAssignment.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/obj/Debug/net6.0/QueueAssignment.dll
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/obj/Debug/net6.0/refint/QueueAssignment.dll
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/obj/Debug/net6.0/QueueAssignment.pdb
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/obj/Debug/net6.0/QueueAssignment.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/QueueAssignment/obj/Debug/net6.0/ref/QueueAssignment.dll

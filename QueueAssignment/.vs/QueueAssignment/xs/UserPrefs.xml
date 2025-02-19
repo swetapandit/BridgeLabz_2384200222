@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{0A27E528-2822-4C1A-BFF7-A69147B10F98}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsuranceManagement.cs">
+    <Files>
+      <File FileName="Program.cs" Line="42" Column="3" />
+      <File FileName="BinaryNumber.cs" Line="28" Column="1" />
+      <File FileName="PriorityQueue.cs" Line="33" Column="1" />
+      <File FileName="Frequency.cs" Line="45" Column="3" />
+      <File FileName="InvertDictionary.cs" Line="48" Column="3" />
+      <File FileName="InsuranceManagement.cs" Line="126" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QueueAssignment" expanded="True">
+            <Node name="QueueAssignment">
+              <Node name="InsuranceManagement.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.QueueAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

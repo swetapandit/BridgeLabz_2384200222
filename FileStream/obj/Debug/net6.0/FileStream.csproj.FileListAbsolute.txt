@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/FileStream/bin/Debug/net6.0/FileStream
+/Users/swetapandit/Desktop/Mydotnet/FileStream/bin/Debug/net6.0/FileStream.deps.json
+/Users/swetapandit/Desktop/Mydotnet/FileStream/bin/Debug/net6.0/FileStream.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/FileStream/bin/Debug/net6.0/FileStream.dll
+/Users/swetapandit/Desktop/Mydotnet/FileStream/bin/Debug/net6.0/FileStream.pdb
+/Users/swetapandit/Desktop/Mydotnet/FileStream/obj/Debug/net6.0/FileStream.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/FileStream/obj/Debug/net6.0/FileStream.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/FileStream/obj/Debug/net6.0/FileStream.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/FileStream/obj/Debug/net6.0/FileStream.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/FileStream/obj/Debug/net6.0/FileStream.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/FileStream/obj/Debug/net6.0/FileStream.dll
+/Users/swetapandit/Desktop/Mydotnet/FileStream/obj/Debug/net6.0/refint/FileStream.dll
+/Users/swetapandit/Desktop/Mydotnet/FileStream/obj/Debug/net6.0/FileStream.pdb
+/Users/swetapandit/Desktop/Mydotnet/FileStream/obj/Debug/net6.0/FileStream.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/FileStream/obj/Debug/net6.0/ref/FileStream.dll

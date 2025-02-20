@@ -230,3 +230,10 @@ Date: 19-02-25 (Wednesday)
 1. Collections
 2. Assignment of Collection
 ****************************************************************************
+
+Date: 20-02-25 (Thursday)
+--------------------------
+1. Generic Method
+2. FileStream
+3. Assignment on filestream
+****************************************************************************

@@ -237,3 +237,20 @@ Date: 20-02-25 (Thursday)
 2. FileStream
 3. Assignment on filestream
 ****************************************************************************
+
+
+Date: 21-02-25 (Friday)
+--------------------------
+1. Exception Handling
+2. Custom Exception
+3. Exception Handling Assignment
+****************************************************************************
+
+Date: 22-02-25 (Saturday)
+--------------------------
+1. Regex
+2. Assignment on Regex
+3. NUnit Testing
+4. NUnit setup
+5. Assignment on NUnit
+****************************************************************************

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6684543F-27C5-4767-A0D4-5E7C638EBC00}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestMyStrings FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TestMyStrings/UnitTest1.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="2" />
+      <File FileName="StringClass.cs" Line="23" Column="10" />
+      <File FileName="../TestMyStrings/UnitTest1.cs" Line="15" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyStrings" expanded="True">
+            <Node name="TestMyStrings">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

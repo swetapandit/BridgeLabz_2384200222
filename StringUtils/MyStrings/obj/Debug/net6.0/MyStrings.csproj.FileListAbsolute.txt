@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/bin/Debug/net6.0/MyStrings
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/bin/Debug/net6.0/MyStrings.deps.json
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/bin/Debug/net6.0/MyStrings.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/bin/Debug/net6.0/MyStrings.dll
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/bin/Debug/net6.0/MyStrings.pdb
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/obj/Debug/net6.0/MyStrings.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/obj/Debug/net6.0/MyStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/obj/Debug/net6.0/MyStrings.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/obj/Debug/net6.0/MyStrings.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/obj/Debug/net6.0/MyStrings.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/obj/Debug/net6.0/MyStrings.dll
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/obj/Debug/net6.0/refint/MyStrings.dll
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/obj/Debug/net6.0/MyStrings.pdb
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/obj/Debug/net6.0/MyStrings.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/StringUtils/MyStrings/obj/Debug/net6.0/ref/MyStrings.dll

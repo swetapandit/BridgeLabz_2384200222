@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/bin/Debug/net6.0/EvenOdd
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/bin/Debug/net6.0/EvenOdd.deps.json
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/bin/Debug/net6.0/EvenOdd.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/bin/Debug/net6.0/EvenOdd.dll
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/bin/Debug/net6.0/EvenOdd.pdb
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/obj/Debug/net6.0/EvenOdd.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/obj/Debug/net6.0/EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/obj/Debug/net6.0/EvenOdd.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/obj/Debug/net6.0/EvenOdd.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/obj/Debug/net6.0/EvenOdd.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/obj/Debug/net6.0/EvenOdd.dll
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/obj/Debug/net6.0/refint/EvenOdd.dll
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/obj/Debug/net6.0/EvenOdd.pdb
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/obj/Debug/net6.0/EvenOdd.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/EvenOdd/obj/Debug/net6.0/ref/EvenOdd.dll

@@ -1,0 +1,12 @@
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/bin/Debug/net6.0/GoForReview.deps.json
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/bin/Debug/net6.0/GoForReview.dll
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/bin/Debug/net6.0/GoForReview.pdb
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/obj/Debug/net6.0/GoForReview.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/obj/Debug/net6.0/GoForReview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/obj/Debug/net6.0/GoForReview.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/obj/Debug/net6.0/GoForReview.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/obj/Debug/net6.0/GoForReview.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/obj/Debug/net6.0/GoForReview.dll
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/obj/Debug/net6.0/refint/GoForReview.dll
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/obj/Debug/net6.0/GoForReview.pdb
+/Users/swetapandit/Desktop/Mydotnet/GoForReview/obj/Debug/net6.0/ref/GoForReview.dll

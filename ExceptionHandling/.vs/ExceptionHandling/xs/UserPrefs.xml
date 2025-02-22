@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{0A9FB756-DF37-4EEC-A433-DC17BD2E1FDA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program9.cs">
+    <Files>
+      <File FileName="../Collection/UnionAndIntersection.cs" Line="18" Column="4" />
+      <File FileName="Program.cs" Line="16" Column="1" />
+      <File FileName="Divide.cs" Line="13" Column="23" />
+      <File FileName="Program3.cs" Line="23" Column="14" />
+      <File FileName="Program4.cs" Line="27" Column="28" />
+      <File FileName="Program5.cs" Line="24" Column="4" />
+      <File FileName="Program6.cs" Line="45" Column="1" />
+      <File FileName="Program7.cs" Line="22" Column="12" />
+      <File FileName="Program8.cs" Line="14" Column="38" />
+      <File FileName="Program9.cs" Line="27" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExceptionHandling" expanded="True">
+            <Node name="ExceptionHandling" expanded="True">
+              <Node name="Program9.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExceptionHandling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

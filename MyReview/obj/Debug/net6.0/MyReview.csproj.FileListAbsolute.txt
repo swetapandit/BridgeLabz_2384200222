@@ -1,0 +1,12 @@
+/Users/swetapandit/Desktop/Mydotnet/MyReview/bin/Debug/net6.0/MyReview.deps.json
+/Users/swetapandit/Desktop/Mydotnet/MyReview/bin/Debug/net6.0/MyReview.dll
+/Users/swetapandit/Desktop/Mydotnet/MyReview/bin/Debug/net6.0/MyReview.pdb
+/Users/swetapandit/Desktop/Mydotnet/MyReview/obj/Debug/net6.0/MyReview.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/MyReview/obj/Debug/net6.0/MyReview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/MyReview/obj/Debug/net6.0/MyReview.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/MyReview/obj/Debug/net6.0/MyReview.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/MyReview/obj/Debug/net6.0/MyReview.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/MyReview/obj/Debug/net6.0/MyReview.dll
+/Users/swetapandit/Desktop/Mydotnet/MyReview/obj/Debug/net6.0/refint/MyReview.dll
+/Users/swetapandit/Desktop/Mydotnet/MyReview/obj/Debug/net6.0/MyReview.pdb
+/Users/swetapandit/Desktop/Mydotnet/MyReview/obj/Debug/net6.0/ref/MyReview.dll

@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/bin/Debug/net6.0/ReviewGoingOn
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/bin/Debug/net6.0/ReviewGoingOn.deps.json
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/bin/Debug/net6.0/ReviewGoingOn.runtimeconfig.json
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/bin/Debug/net6.0/ReviewGoingOn.dll
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/bin/Debug/net6.0/ReviewGoingOn.pdb
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/obj/Debug/net6.0/ReviewGoingOn.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/obj/Debug/net6.0/ReviewGoingOn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/obj/Debug/net6.0/ReviewGoingOn.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/obj/Debug/net6.0/ReviewGoingOn.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/obj/Debug/net6.0/ReviewGoingOn.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/obj/Debug/net6.0/ReviewGoingOn.dll
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/obj/Debug/net6.0/refint/ReviewGoingOn.dll
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/obj/Debug/net6.0/ReviewGoingOn.pdb
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/obj/Debug/net6.0/ReviewGoingOn.genruntimeconfig.cache
+/Users/swetapandit/Desktop/Mydotnet/ReviewGoingOn/obj/Debug/net6.0/ref/ReviewGoingOn.dll

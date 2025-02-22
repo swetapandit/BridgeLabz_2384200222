@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{8D8330C4-A3B2-4E78-9426-B951A6A8277A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReviewGoingOn" expanded="True">
+            <Node name="ReviewGoingOn">
+              <Node name="IEmployee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReviewGoingOn PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F9BCB824-F294-490D-9DAA-FA59FE3F6079}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UserRegistrationController.cs">
+    <Files>
+      <File FileName="Controllers/UserRegistrationControllers.cs" Line="20" Column="10" />
+      <File FileName="../BusinessLayer/Class1.cs" Line="17" Column="52" />
+      <File FileName="../RepositoryLayer/Class1.cs" Line="16" Column="29" />
+      <File FileName="Program.cs" Line="28" Column="1" />
+      <File FileName="../ModelLayer/Class1.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserRegistration" expanded="True">
+            <Node name="UserRegistration">
+              <Node name="Controllers" expanded="True">
+                <Node name="UserRegistrationController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UserRegistration PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

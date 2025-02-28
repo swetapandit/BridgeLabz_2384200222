@@ -1,0 +1,17 @@
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/bin/Debug/net6.0/BusinessLayer.deps.json
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/bin/Debug/net6.0/BusinessLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/bin/Debug/net6.0/BusinessLayer.pdb
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/bin/Debug/net6.0/RepositoryLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/bin/Debug/net6.0/RepositoryLayer.pdb
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.CopyComplete
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/obj/Debug/net6.0/refint/BusinessLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/obj/Debug/net6.0/BusinessLayer.pdb
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/obj/Debug/net6.0/ref/BusinessLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/bin/Debug/net6.0/ModelLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/BusinessLayer/bin/Debug/net6.0/ModelLayer.pdb

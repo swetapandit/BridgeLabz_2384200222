@@ -1,0 +1,12 @@
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/bin/Debug/net6.0/ModelLayer.deps.json
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/bin/Debug/net6.0/ModelLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/bin/Debug/net6.0/ModelLayer.pdb
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/obj/Debug/net6.0/ModelLayer.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/obj/Debug/net6.0/ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/obj/Debug/net6.0/ModelLayer.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/obj/Debug/net6.0/ModelLayer.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/obj/Debug/net6.0/ModelLayer.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/obj/Debug/net6.0/ModelLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/obj/Debug/net6.0/refint/ModelLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/obj/Debug/net6.0/ModelLayer.pdb
+/Users/swetapandit/Desktop/Mydotnet/asp/UserRegistrationAPI/ModelLayer/obj/Debug/net6.0/ref/ModelLayer.dll

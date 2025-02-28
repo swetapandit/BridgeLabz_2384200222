@@ -281,4 +281,5 @@ Holiday
 Date: 28-02-25 (Thursday)
 --------------------------
 1. Learned about asp.net web api project.
+2. Created a project for UserRegistration
 ****************************************************************************

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B8F94162-D04A-4E23-B83F-8ED9C9B75925}|Default">
+  <MonoDevelop.Ide.ItemProperties.Second PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HelloAppController.cs">
+    <Files>
+      <File FileName="Controllers/HelloAppController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Second" expanded="True">
+            <Node name="BusinessLayer" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="RepositoryLayer" expanded="True" />
+            <Node name="Second" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HelloAppController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

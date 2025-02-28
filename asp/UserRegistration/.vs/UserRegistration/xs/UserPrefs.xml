@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{650E16C9-27ED-445F-AFA9-1318CFC8C68A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="14" Column="27" />
+      <File FileName="../RepositoryLayer1/UserRegistrationRL.cs" Line="6" Column="10" />
+      <File FileName="../BussinessLayer/UserRegistrationBL.cs" Line="5" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserRegistration" expanded="True">
+            <Node name="BussinessLayer" expanded="True" selected="True" />
+            <Node name="RepositoryLayer1" expanded="True" />
+            <Node name="UserRegistration" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RepositoryLayer1 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BussinessLayer FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UserRegistration FirstBuild="True" PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

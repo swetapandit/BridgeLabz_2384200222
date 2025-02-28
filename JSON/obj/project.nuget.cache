@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "omSyaOHXnbxH2fr+E0g/r7jUweWSxP+dWU4fCk15KE3OwHVv1TYbxmSXiqrgLXNnlTE0lvq2TdKpD1EE7q719g==",
+  "success": true,
+  "projectFilePath": "/Users/swetapandit/Desktop/Mydotnet/JSON/JsonAssignment.csproj",
+  "expectedPackageFiles": [
+    "/Users/swetapandit/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/swetapandit/.nuget/packages/newtonsoft.json.schema/4.0.1/newtonsoft.json.schema.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

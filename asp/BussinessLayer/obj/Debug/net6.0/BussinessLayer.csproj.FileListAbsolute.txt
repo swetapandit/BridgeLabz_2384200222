@@ -1,0 +1,15 @@
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/bin/Debug/net6.0/BussinessLayer.deps.json
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/bin/Debug/net6.0/BussinessLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/bin/Debug/net6.0/BussinessLayer.pdb
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/bin/Debug/net6.0/RepositoryLayer1.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/bin/Debug/net6.0/RepositoryLayer1.pdb
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/obj/Debug/net6.0/BussinessLayer.csproj.AssemblyReference.cache
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/obj/Debug/net6.0/BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/obj/Debug/net6.0/BussinessLayer.AssemblyInfoInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/obj/Debug/net6.0/BussinessLayer.AssemblyInfo.cs
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/obj/Debug/net6.0/BussinessLayer.csproj.CoreCompileInputs.cache
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/obj/Debug/net6.0/BussinessLayer.csproj.CopyComplete
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/obj/Debug/net6.0/BussinessLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/obj/Debug/net6.0/refint/BussinessLayer.dll
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/obj/Debug/net6.0/BussinessLayer.pdb
+/Users/swetapandit/Desktop/Mydotnet/asp/BussinessLayer/obj/Debug/net6.0/ref/BussinessLayer.dll

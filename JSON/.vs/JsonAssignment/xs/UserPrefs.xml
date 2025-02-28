@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{C1E228D7-1C74-4FBC-A51C-52A4AD0E355F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="jsonInput.json">
+    <Files>
+      <File FileName="CarObjectToJson.cs" Line="27" Column="1" />
+      <File FileName="csvInput.csv" Line="1" Column="1" />
+      <File FileName="ConvertListToJson.cs" Line="1" Column="1" />
+      <File FileName="CSVToJson.cs" Line="23" Column="18" />
+      <File FileName="jsonInput.json" Line="16" Column="31" />
+      <File FileName="ReadJson.cs" Line="24" Column="14" />
+      <File FileName="MergeTwoObject.cs" Line="29" Column="50" />
+      <File FileName="ValidateJson.cs" Line="29" Column="14" />
+      <File FileName="JsontoXML.cs" Line="22" Column="1" />
+      <File FileName="FilterJsonArray.cs" Line="26" Column="1" />
+      <File FileName="PrintKeyValueInJson.cs" Line="20" Column="14" />
+      <File FileName="ParseJsonAndFilterAge.cs" Line="25" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JsonAssignment" expanded="True">
+            <Node name="JsonAssignment">
+              <Node name="jsonInput.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JsonAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alexa",
+    "age": 13,
+    "hobbie": "dancing"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "age": 25,
+    "hobbie": "figthing"
+  },
+  {
+    "id": 3,
+    "name": "Zxcv",
+    "age": 30,
+    "hobbie": "reading"
+  },
+  {
+    "id": 4,
+    "name": "john",
+    "age": 26,
+    "hobbie": "playing"
+  },
+  {
+    "id": 5,
+    "name": "alice",
+    "age": 36,
+    "hobbie": "reading"
+  }
+]

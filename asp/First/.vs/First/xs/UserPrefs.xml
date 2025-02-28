@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{192AC75E-1C4D-460D-9319-CF9380E54BDC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="22" />
+      <File FileName="WeatherForecast.cs" Line="14" Column="1" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="34" Column="1" />
+      <File FileName="appsettings.json" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="../BusinessLayer1/Class1.cs" Line="3" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="First" expanded="True">
+            <Node name="First" expanded="True">
+              <Node name="Controllers" expanded="True" selected="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BusinessLayer1 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.First PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>

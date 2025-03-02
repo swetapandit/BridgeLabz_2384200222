@@ -283,3 +283,15 @@ Date: 28-02-25 (Thursday)
 1. Learned about asp.net web api project.
 2. Created a project for UserRegistration
 ****************************************************************************
+
+Date: 01-03-25 (Friday)
+--------------------------
+1. NLog logger
+2. ORM
+****************************************************************************
+
+Date: 02-03-25 (Friday)
+--------------------------
+1. added Try-Catch to same project
+2. added Nlog to the project
+****************************************************************************
